@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="https://store.unity.com/themes/store/images/products/unity/personal/unity-assetstore.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://wallpapers.gry-online.pl/pliki/63651/1920x1080.jpg" alt="Logo" width=1200 height=450>
 </p>
 
 ## Contenido
@@ -22,9 +22,9 @@
 
 # Código Fuente
 
-**Unidad 1**
+## **Unidad 1**
 
-![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.400x0x1.webp "Unidad 1")
+![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.1400x0x1.webp "Unidad 1")
 
 [Unidad 1 - Player control](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad1/Leccion1)
 
@@ -37,22 +37,22 @@
 [Unidad 1 - Quiz 1](https://drive.google.com/drive/folders/16PobLYOK4NO3mR6BEJ_HP7Ccc2x8L4rJ?usp=sharing)
 
 
-**Unidad 2**
+## **Unidad 2**
 
-![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.400x0x1.webp "Unidad 2")
+![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.1400x0x1.webp "Unidad 2")
 
 [Unidad 2 - Basic Gameplay](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad2/Leccion2)
 
 [Unidad 2 - Challenge 2 Play Fetch](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad2/Reto2)
 
-[Unidad 2 - Lab 2 New Project with Primitives](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad2/Laboratorio%2022)
+[Unidad 2 - Lab 2 New Project with Primitives](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad2/Laboratorio%202)
 
 [Unidad 2 - Video Challenge 2 Play Fetch](https://drive.google.com/drive/folders/1FZgPsrwQ2VIEgSY4cF5NjnenZNzppjdD?usp=sharing)
 
 [Unidad 2 - Quiz 2](https://drive.google.com/drive/folders/16PobLYOK4NO3mR6BEJ_HP7Ccc2x8L4rJ?usp=sharing)
 
 
-**Unidad 3**
+## **Unidad 3**
 
 ![Unidad 3](https://connect-prd-cdn.unity.com/20190606/learn/images/998f1459-9767-49af-a033-b1e52a38bc66_P31080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
@@ -67,7 +67,7 @@
 [Unidad 3 - Quiz 3](https://drive.google.com/drive/folders/16PobLYOK4NO3mR6BEJ_HP7Ccc2x8L4rJ?usp=sharing)
 
 
-**Unidad 4**
+## **Unidad 4**
 
 ![Unidad 4](https://connect-prd-cdn.unity.com/20190606/learn/images/3c9ad8f0-9f2c-4265-806e-1baaed1fa8a3_p41080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
@@ -82,9 +82,9 @@
 [Unidad 4 - Quiz 4](https://drive.google.com/drive/folders/16PobLYOK4NO3mR6BEJ_HP7Ccc2x8L4rJ?usp=sharing)
 
 
-**Unidad 5**
+## **Unidad 5**
 
-![Unidad 5](https://connect-prd-cdn.unity.com/20190606/learn/images/08de1b60-efa5-4f1d-8e33-50979f62e589_p51080pBanner__1_.png.400x0x1.webp "Unidad 3")
+![Unidad 5](https://connect-prd-cdn.unity.com/20190606/learn/images/08de1b60-efa5-4f1d-8e33-50979f62e589_p51080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
 [Unidad 5 - User Interface]()
 
