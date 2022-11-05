@@ -71,7 +71,7 @@
 
 ![Unidad 4](https://connect-prd-cdn.unity.com/20190606/learn/images/3c9ad8f0-9f2c-4265-806e-1baaed1fa8a3_p41080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
-[Unidad 4 - Watch Where You’re Going]()
+[Unidad 4 - Watch Where You’re Going](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad4/Leccion4)
 
 [Unidad 4 - Challenge 4 Soccer Scripting]()
 
@@ -88,7 +88,7 @@
 
 [Unidad 5 - User Interface](https://github.com/Projects-Unity/Lecciones/blob/main/Unity_Unidad5/Leccion5/Lecci%C3%B3n5.unitypackage)
 
-[Unidad 5 - Challenge 5 Whack-a-Food]()
+[Unidad 5 - Challenge 5 Whack-a-Food](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad5/Reto5)
 
 [Unidad 5 - Lab 5 Swap out your Assets](https://github.com/Projects-Unity/Lecciones/tree/main/Unity_Unidad5/Laboratorio5)
 
